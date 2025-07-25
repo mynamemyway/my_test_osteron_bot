@@ -8,3 +8,16 @@ venv/
 __pycache__/
 *.pyc
 *.pyo
+
+# Personal data
+.env.local
+.env.development
+.env.test
+
+# Logs
+*.log
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
